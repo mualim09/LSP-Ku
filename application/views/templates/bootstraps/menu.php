@@ -70,7 +70,7 @@
 										</li>
 
 										<li>
-											<a href="#googlemaps" data-hash data-hash-offset="64">
+											<a href="#kontak" data-hash data-hash-offset="74">
 												Kontak
 											</a>
 										</li>

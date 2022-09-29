@@ -14,6 +14,7 @@ class Welcome extends MY_Controller {
         $kuk = kode_lsp() . 'kuk';
         $asesi = kode_lsp() . 'asesi';
         $asesi_detail = kode_lsp() . 'asesi_detail';
+        
         $this->load->model('welcome_model');
         $this->load->model('artikel_model');
         $this->load->model('album_galeri_model');
@@ -21,9 +22,9 @@ class Welcome extends MY_Controller {
         $this->load->model('jadwal_asesmen_model');
         $this->load->model('slider_model');
 
-        $this->load->helper('text');
-        $this->load->helper('cookie');
-        $this->load->library('curl');
+        // $this->load->helper('text');
+        // $this->load->helper('cookie');
+        // $this->load->library('curl');
     }
 
     public function index() {

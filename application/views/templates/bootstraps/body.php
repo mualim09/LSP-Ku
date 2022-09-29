@@ -1,3 +1,79 @@
+<style type="text/css">
+  
+  #kontak iframe {
+    /*width: 57%;*/
+    width: 100%;
+    height: 100%;
+    border:0;
+    background: #3c3f44;
+  }
+
+  .form_kontak {
+    float: right;
+    padding: 21px 30px 40px 20px;
+  }
+
+  @media (max-width: 767px) {
+    #kontak iframe {
+      padding: 23px 13px 15px 15px;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1580px) {
+    #kontak iframe {
+      padding: 15px 55px 15px 12px;
+    }
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 1080px) {
+    .form_kontak {
+      left: 30px;
+      padding: 41px 30px 40px 20px;
+    }
+  }
+
+  @media screen and (min-width: 1081px) and (max-width: 1350px) {
+    .form_kontak {
+      left: 50px;
+      padding: 35px 35px 20px 35px;
+    }
+  }
+
+  @media screen and (min-width: 1351px) and (max-width: 1400px) {
+    .form_kontak {
+      left: 80px;
+      padding: 40px 30px 15px;
+    }
+  }
+
+  @media screen and (min-width: 1401px) and (max-width: 1450px) {
+    .form_kontak {
+      left: 100px;
+      padding: 40px 30px 15px;
+    }
+  }
+
+  @media screen and (min-width: 1451px) and (max-width: 1580px) {
+    .form_kontak {
+      left: 150px;
+      padding: 33px 60px 20px;
+    }
+  }
+
+  @media screen and (min-width: 1581px) {
+
+    .#kontak iframe {
+      padding: 15px 15px 15px 12px;
+    }
+
+    .form_kontak {
+      float: left;
+      padding: 40px 45px 20px 15px;
+    }
+  }
+
+</style>
+
 <div role="main" class="main">
   <div id="home" class="slider-container rev_slider_wrapper" style="height: 100vh;">
     <div id="revolutionSlider" class="slider manual rev_slider background-color-primary-dark">
@@ -586,7 +662,7 @@
         <div class="col-md-12">
           <div class="col-md-2 col-sm-6 col-xs-6 custom-margin-4-sm owl-carousel show-nav-title custom-arrows-style-1" data-plugin-options="{'responsive': {'767': {'items': 1}, '1200': {'items': 3}}, 'margin': 15, 'loop': false, 'dots': false, 'nav': true}">
             
-            <article class="thumb-info custom-thumb-info-style-2">
+            <article class="thumb-info custom-thumb-info-style-2" style="border-radius: 3px;">
               <span class="thumb-info-caption background-color-light center p-md">
                  <p class="custom-thumb-info-category" style="font-size: 12px; font-weight: 600;">
                   <a href="#" class="text-decoration-none text-color-dark">
@@ -596,7 +672,7 @@
                 </span>
             </article>
 
-            <article class="thumb-info custom-thumb-info-style-2">
+            <article class="thumb-info custom-thumb-info-style-2" style="border-radius: 3px;">
               <span class="thumb-info-caption background-color-light center p-md">
                  <p class="custom-thumb-info-category" style="font-size: 12px; font-weight: 600;">
                   <a href="#" class="text-decoration-none text-color-dark">
@@ -606,7 +682,7 @@
                 </span>
             </article>
 
-            <article class="thumb-info custom-thumb-info-style-2">
+            <article class="thumb-info custom-thumb-info-style-2" style="border-radius: 3px;">
               <span class="thumb-info-caption background-color-light center p-md">
                  <p class="custom-thumb-info-category" style="font-weight: 600;">
                   <a href="#" class="text-decoration-none text-color-dark">
@@ -616,7 +692,7 @@
                 </span>
             </article>
 
-            <article class="thumb-info custom-thumb-info-style-2">
+            <article class="thumb-info custom-thumb-info-style-2" style="border-radius: 3px;">
               <span class="thumb-info-caption background-color-light center p-md">
                  <p class="custom-thumb-info-category" style="font-size: 12px; font-weight: 600;">
                   <a href="#" class="text-decoration-none text-color-dark">
@@ -626,7 +702,7 @@
                 </span>
             </article>
 
-            <article class="thumb-info custom-thumb-info-style-2">
+            <article class="thumb-info custom-thumb-info-style-2" style="border-radius: 3px;">
               <span class="thumb-info-caption background-color-light center p-md">
                  <p class="custom-thumb-info-category" style="font-size: 12px; font-weight: 600;">
                   <a href="#" class="text-decoration-none text-color-dark">
@@ -636,7 +712,7 @@
                 </span>
             </article>
 
-            <article class="thumb-info custom-thumb-info-style-2">
+            <article class="thumb-info custom-thumb-info-style-2" style="border-radius: 3px;">
               <span class="thumb-info-caption background-color-light center p-md">
                  <p class="custom-thumb-info-category" style="font-weight: 600;">
                   <a href="#" class="text-decoration-none text-color-dark">
@@ -646,7 +722,7 @@
                 </span>
             </article>
 
-            <article class="thumb-info custom-thumb-info-style-2">
+            <article class="thumb-info custom-thumb-info-style-2" style="border-radius: 3px;">
               <span class="thumb-info-caption background-color-light center p-md">
                  <p class="custom-thumb-info-category" style="font-size: 12px; font-weight: 600;">
                   <a href="#" class="text-decoration-none text-color-dark">
@@ -656,7 +732,7 @@
                 </span>
             </article>
 
-            <article class="thumb-info custom-thumb-info-style-2">
+            <article class="thumb-info custom-thumb-info-style-2" style="border-radius: 3px;">
               <span class="thumb-info-caption background-color-light center p-md">
                  <p class="custom-thumb-info-category" style="font-size: 12px; font-weight: 600;">
                   <a href="#" class="text-decoration-none text-color-dark">
@@ -666,7 +742,7 @@
                 </span>
             </article>
 
-            <article class="thumb-info custom-thumb-info-style-2">
+            <article class="thumb-info custom-thumb-info-style-2" style="border-radius: 3px;">
               <span class="thumb-info-caption background-color-light center p-md">
                  <p class="custom-thumb-info-category" style="font-size: 12px; font-weight: 600;">
                   <a href="#" class="text-decoration-none text-color-dark">
@@ -683,24 +759,7 @@
     </div>
   </section>
 
-
-  <!-- <section class="section section-primary section-no-border m-none">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-          <img src="<?=base_url()?>assets/img/demos/one-page-agency/purchase/purchase-1.png" alt class="img-responsive" />
-        </div>
-        <div class="col-md-5">
-          <h2 class="text-color-light mt-xlg pt-md">PT. LMJ</h2>
-          <p class="custom-section-sub-title text-color-light">GET READY NOW</p>
-          <p class="text-color-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore iure, incidunt, in aspernatur error nostrum obcaecati velit doloremque praesentium soluta est. Atque, esse expedita, dicta, possimus voluptate alias porro pariatur beatae.</p>
-          <a href="#" class="btn custom-btn-style-1 _color-2 text-color-light mt-xlg">DETAIL</a>
-        </div>
-      </div>
-    </div>
-  </section> -->
-
-  <section id="gallery" class="section section-no-border background-color-tertiary m-none pb-xlg">
+  <section id="gallery" class="section section-no-border background-color-light m-none pb-xlg">
     <div class="container">
       <div class="row center">
         <div class="col-md-12">
@@ -725,10 +784,10 @@
 
             <li class="isotope-item col-sm-6 col-md-3 website p-none">
               <div class="image-gallery-item mb-none">
-                <a href="<?=base_url()?>assets/img/projects/project-6.jpg" class="lightbox-portfolio">
+                <a href="<?=base_url()?>assets/img/projects/project-1.jpg" class="lightbox-portfolio">
                   <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                     <span class="thumb-info-wrapper">
-                      <img src="<?=base_url()?>assets/img/projects/project.jpg" class="img-responsive" alt="">
+                      <img src="<?=base_url()?>assets/img/projects/project-1.jpg" class="img-responsive" alt="">
                       <span class="thumb-info-title">
                         <span class="thumb-info-inner">PT. LMJ 1</span>
                         <span class="thumb-info-type">1</span>
@@ -741,7 +800,7 @@
 
             <li class="isotope-item col-sm-6 col-md-3 website p-none">
               <div class="image-gallery-item mb-none">
-                <a href="<?=base_url()?>assets/img/projects/project-6.jpg" class="lightbox-portfolio">
+                <a href="<?=base_url()?>assets/img/projects/project-2.jpg" class="lightbox-portfolio">
                   <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                     <span class="thumb-info-wrapper">
                       <img src="<?=base_url()?>assets/img/projects/project-2.jpg" class="img-responsive" alt="">
@@ -757,10 +816,10 @@
 
             <li class="isotope-item col-sm-6 col-md-3 website p-none">
               <div class="image-gallery-item mb-none">
-                <a href="<?=base_url()?>assets/img/projects/project-6.jpg" class="lightbox-portfolio">
+                <a href="<?=base_url()?>assets/img/projects/project-3.jpg" class="lightbox-portfolio">
                   <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                     <span class="thumb-info-wrapper">
-                      <img src="<?=base_url()?>assets/img/projects/project-4.jpg" class="img-responsive" alt="">
+                      <img src="<?=base_url()?>assets/img/projects/project-3.jpg" class="img-responsive" alt="">
                       <span class="thumb-info-title">
                         <span class="thumb-info-inner">PT. LMJ 3</span>
                         <span class="thumb-info-type">3</span>
@@ -773,10 +832,10 @@
 
             <li class="isotope-item col-sm-6 col-md-3 website p-none">
               <div class="image-gallery-item mb-none">
-                <a href="<?=base_url()?>assets/img/projects/project-6.jpg" class="lightbox-portfolio">
+                <a href="<?=base_url()?>assets/img/projects/project-4.jpg" class="lightbox-portfolio">
                   <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                     <span class="thumb-info-wrapper">
-                      <img src="<?=base_url()?>assets/img/projects/project-5.jpg" class="img-responsive" alt="">
+                      <img src="<?=base_url()?>assets/img/projects/project-4.jpg" class="img-responsive" alt="">
                       <span class="thumb-info-title">
                         <span class="thumb-info-inner">PT. LMJ 4</span>
                         <span class="thumb-info-type">4</span>
@@ -789,10 +848,10 @@
 
             <li class="isotope-item col-sm-6 col-md-3 website p-none">
               <div class="image-gallery-item mb-none">
-                <a href="<?=base_url()?>assets/img/projects/project-6.jpg" class="lightbox-portfolio">
+                <a href="<?=base_url()?>assets/img/projects/project-5.jpg" class="lightbox-portfolio">
                   <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                     <span class="thumb-info-wrapper">
-                      <img src="<?=base_url()?>assets/img/projects/project-6.jpg" class="img-responsive" alt="">
+                      <img src="<?=base_url()?>assets/img/projects/project-5.jpg" class="img-responsive" alt="">
                       <span class="thumb-info-title">
                         <span class="thumb-info-inner text-color-light">PT. LMJ 5</span>
                         <span class="thumb-info-type">5</span>
@@ -808,7 +867,7 @@
                 <a href="<?=base_url()?>assets/img/projects/project-6.jpg" class="lightbox-portfolio">
                   <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                     <span class="thumb-info-wrapper">
-                      <img src="<?=base_url()?>assets/img/projects/project-25.jpg" class="img-responsive" alt="">
+                      <img src="<?=base_url()?>assets/img/projects/project-6.jpg" class="img-responsive" alt="">
                       <span class="thumb-info-title">
                         <span class="thumb-info-inner">PT. LMJ 6</span>
                         <span class="thumb-info-type">6</span>
@@ -821,7 +880,7 @@
 
             <li class="isotope-item col-sm-6 col-md-3 website p-none">
               <div class="image-gallery-item mb-none">
-                <a href="<?=base_url()?>assets/img/projects/project-6.jpg" class="lightbox-portfolio">
+                <a href="<?=base_url()?>assets/img/projects/project-7.jpg" class="lightbox-portfolio">
                   <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                     <span class="thumb-info-wrapper">
                       <img src="<?=base_url()?>assets/img/projects/project-7.jpg" class="img-responsive" alt="">
@@ -837,7 +896,7 @@
 
             <li class="isotope-item col-sm-6 col-md-3 website p-none">
               <div class="image-gallery-item mb-none">
-                <a href="<?=base_url()?>assets/img/projects/project-6.jpg" class="lightbox-portfolio">
+                <a href="<?=base_url()?>assets/img/projects/project-1.jpg" class="lightbox-portfolio">
                   <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                     <span class="thumb-info-wrapper">
                       <img src="<?=base_url()?>assets/img/projects/project-1.jpg" class="img-responsive" alt="">
@@ -875,174 +934,17 @@
 
   </section>
 
-  <!-- <section id="blog" class="section section-no-border background-color-tertiary m-none">
-    <div class="container">
-      <div class="row center">
-        <div class="col-md-12">
-          <h2>Our Blog</h2>
-          <p class="custom-section-sub-title">RECENT POSTS</p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12">
-          <div class="owl-carousel show-nav-title custom-arrows-style-1" data-plugin-options="{'responsive': {'767': {'items': 1}, '1200': {'items': 3}}, 'margin': 15, 'loop': false, 'dots': false, 'nav': true, 'autoHeight': true}">
-            <div>
-              <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
-                  <a href="#" class="text-decoration-none" title="Innovation is the key">
-                    <img src="<?=base_url()?>assets/img/demos/one-page-agency/blog/blog-1.jpg" class="img-responsive" alt="">
-                  </a>
-                </span>
-                <span class="thumb-info-caption background-color-light p-md">
-                  <span class="date background-color-dark text-color-light">FEB-8-2017</span>
-                  <p class="custom-thumb-info-category">WEB DESIGN</p>
-                  <h4 class="mb-sm">
-                    <a href="#" class="text-decoration-none text-color-dark">
-                      INNOVATION IS THE KEY
-                    </a>
-                  </h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, ut, laboriosam.</p>
-                </span>
-              </article>
-            </div>
-            <div>
-              <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
-                  <a href="#" class="text-decoration-none" title="Creative moments">
-                    <img src="<?=base_url()?>assets/img/demos/one-page-agency/blog/blog-2.jpg" class="img-responsive" alt="">
-                  </a>
-                </span>
-                <span class="thumb-info-caption background-color-light p-md">
-                  <span class="date background-color-dark text-color-light">FEB-1-2017</span>
-                  <p class="custom-thumb-info-category">WEB DESIGN</p>
-                  <h4 class="mb-sm">
-                    <a href="#" class="text-decoration-none text-color-dark">
-                      CREATIVE MOMENTS
-                    </a>
-                  </h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, ut, laboriosam.</p>
-                </span>
-              </article>
-            </div>
-            <div>
-              <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
-                  <a href="#" class="text-decoration-none" title="Back in Business">
-                    <img src="<?=base_url()?>assets/img/demos/one-page-agency/blog/blog-3.jpg" class="img-responsive" alt="">
-                  </a>
-                </span>
-                <span class="thumb-info-caption background-color-light p-md">
-                  <span class="date background-color-dark text-color-light">JAN-19-2017</span>
-                  <p class="custom-thumb-info-category">OTHER</p>
-                  <h4 class="mb-sm">
-                    <a href="#" class="text-decoration-none text-color-dark">
-                      BACK IN BUSINESS
-                    </a>
-                  </h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, ut, laboriosam.</p>
-                </span>
-              </article>
-            </div>
-            <div>
-              <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
-                  <a href="#" class="text-decoration-none" title="Innovation is the key">
-                    <img src="<?=base_url()?>assets/img/demos/one-page-agency/blog/blog-1.jpg" class="img-responsive" alt="">
-                  </a>
-                </span>
-                <span class="thumb-info-caption background-color-light p-md">
-                  <span class="date background-color-dark text-color-light">FEB-8-2017</span>
-                  <p class="custom-thumb-info-category">WEB DESIGN</p>
-                  <h4 class="mb-sm">
-                    <a href="#" class="text-decoration-none text-color-dark">
-                      INNOVATION IS THE KEY
-                    </a>
-                  </h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, ut, laboriosam.</p>
-                </span>
-              </article>
-            </div>
-            <div>
-              <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
-                  <a href="#" class="text-decoration-none" title="Creative moments">
-                    <img src="<?=base_url()?>assets/img/demos/one-page-agency/blog/blog-2.jpg" class="img-responsive" alt="">
-                  </a>
-                </span>
-                <span class="thumb-info-caption background-color-light p-md">
-                  <span class="date background-color-dark text-color-light">FEB-1-2017</span>
-                  <p class="custom-thumb-info-category">WEB DESIGN</p>
-                  <h4 class="mb-sm">
-                    <a href="#" class="text-decoration-none text-color-dark">
-                      CREATIVE MOMENTS
-                    </a>
-                  </h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, ut, laboriosam.</p>
-                </span>
-              </article>
-            </div>
-            <div>
-              <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
-                  <a href="#" class="text-decoration-none" title="Back in Business">
-                    <img src="<?=base_url()?>assets/img/demos/one-page-agency/blog/blog-3.jpg" class="img-responsive" alt="">
-                  </a>
-                </span>
-                <span class="thumb-info-caption background-color-light p-md">
-                  <span class="date background-color-dark text-color-light">JAN-19-2017</span>
-                  <p class="custom-thumb-info-category">OTHER</p>
-                  <h4 class="mb-sm">
-                    <a href="#" class="text-decoration-none text-color-dark">
-                      BACK IN BUSINESS
-                    </a>
-                  </h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, ut, laboriosam.</p>
-                </span>
-              </article>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row center">
-        <div class="col-md-12">
-          <a href="#" class="btn custom-btn-style-1 text-color-dark">VIEW OUR BLOG</a>
-        </div>
-      </div>
-    </div>
-  </section> -->
-
-  <!-- <section class="section section-no-border background-color-light m-none">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-2 col-sm-6 col-xs-6 custom-margin-4-sm">
-          <img src="<?=base_url()?>assets/img/logos/logo-1.png" alt class="img-responsive" />
-        </div>
-        <div class="col-md-2 col-sm-6 col-xs-6 custom-margin-4-sm">
-          <img src="<?=base_url()?>assets/img/logos/logo-2.png" alt class="img-responsive" />
-        </div>
-        <div class="col-md-2 col-sm-6 col-xs-6 custom-margin-4-sm">
-          <img src="<?=base_url()?>assets/img/logos/logo-3.png" alt class="img-responsive" />
-        </div>
-        <div class="col-md-2 col-sm-6 col-xs-6 custom-margin-4-sm">
-          <img src="<?=base_url()?>assets/img/logos/logo-4.png" alt class="img-responsive" />
-        </div>
-        <div class="col-md-2 col-sm-6 col-xs-6">
-          <img src="<?=base_url()?>assets/img/logos/logo-5.png" alt class="img-responsive" />
-        </div>
-        <div class="col-md-2 col-sm-6 col-xs-6">
-          <img src="<?=base_url()?>assets/img/logos/logo-6.png" alt class="img-responsive" />
-        </div>
-      </div>
-    </div>
-  </section> -->
-
   <!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
-  <div id="googlemaps" class="google-map m-none custom-contact-pos"></div>
+  <!-- <div id="googlemaps" class="google-map background-color-light m-none custom-contact-pos"></div> -->
+
+  <div id="kontak" class="google-map background-color-light m-none custom-contact-pos">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.046565102942!2d106.74738881432283!3d-6.124435995565465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6a1d69a432fcbd%3A0x36926e394ba93111!2sLintas%20Maritim%20Jaya!5e0!3m2!1sid!2sid!4v1664469368150!5m2!1sid!2sid" allowfullscreen=""></iframe>
+  </div>
 
   <section class="section section-no-border m-none p-none">
     <div class="container">
       <div class="row">
-        <div class="col-md-5 col-sm-6 custom-contact-box custom-contact-pos background-color-quaternary">
+        <div class="form_kontak col-md-5 col-sm-6 custom-contact-box custom-contact-pos background-color-quaternary">
           <h2 class="text-color-light">Kontak Kami</h2>
           <div class="feature-box feature-box-style-2 custom-feature-box-style-2 mb-lg">
             <div class="feature-box-icon">
@@ -1098,7 +1000,7 @@
             </div>
             <div class="row">
               <div class="col-md-12">
-                <input type="submit" value="KIRIM" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-2 pull-right" data-loading-text="Loading...">
+                <input type="submit" value="KIRIM" class="btn btn-primary custom-btn-style-2 text-color-light custom-margin-1 pull-right" data-loading-text="Loading...">
               </div>
             </div>
           </form>
