@@ -234,7 +234,7 @@
                     <img src="<?=base_url()?>assets/img/logo1_transparent.png" class="img-responsive" alt="">
                   </a>
                 </span>
-                <span class="thumb-info-caption background-color-light center p-md">
+                <span class="thumb-info-caption background-color-tertiary center p-md">
                   <h4 style="font-size:0.8em!important;">
                     <a href="#team-content-1" class="popup-with-zoom-anim text-decoration-none text-color-dark" title="WIBOWO">
                       WIBOWO
@@ -287,7 +287,7 @@
                     <img src="<?=base_url()?>assets/img/logo1_transparent.png" class="img-responsive" alt="">
                   </a>
                 </span>
-                <span class="thumb-info-caption background-color-light center p-md">
+                <span class="thumb-info-caption background-color-tertiary center p-md">
                   <h4 style="font-size:0.8em!important;">
                     <a href="#team-content-2" class="popup-with-zoom-anim text-decoration-none text-color-dark" title="OCTAVIANUS SEMBIRING">
                       OCTAVIANUS SEMBIRING
@@ -340,7 +340,7 @@
                     <img src="<?=base_url()?>assets/img/logo1_transparent.png" class="img-responsive" alt="">
                   </a>
                 </span>
-                <span class="thumb-info-caption background-color-light center p-md">
+                <span class="thumb-info-caption background-color-tertiary center p-md">
                   <h4 style="font-size:0.8em!important;">
                     <a href="#team-content-3" class="popup-with-zoom-anim text-decoration-none text-color-dark" title="JEFF DAMARIS PRIBADI">
                       JEFF DAMARIS PRIBADI
@@ -393,7 +393,7 @@
                     <img src="<?=base_url()?>assets/img/logo1_transparent.png" class="img-responsive" alt="">
                   </a>
                 </span>
-                <span class="thumb-info-caption background-color-light center p-md">
+                <span class="thumb-info-caption background-color-tertiary center p-md">
                   <h4 style="font-size:0.8em!important;">
                     <a href="#team-content-4" class="popup-with-zoom-anim text-decoration-none text-color-dark" title="ALEXANDER SUSANTO">
                       ALEXANDER SUSANTO
