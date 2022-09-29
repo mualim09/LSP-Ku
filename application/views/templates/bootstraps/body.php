@@ -700,7 +700,7 @@
     </div>
   </section> -->
 
-  <section id="gallery" class="section section-no-border background-color-light m-none pb-xlg">
+  <section id="gallery" class="section section-no-border background-color-tertiary m-none pb-xlg">
     <div class="container">
       <div class="row center">
         <div class="col-md-12">
