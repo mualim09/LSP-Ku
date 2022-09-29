@@ -297,6 +297,7 @@ html .scroll-to-top.visible {
 	position: absolute;
 	width: 100%;
 	top: calc(98vh - 69px);
+	/*top: calc(91vh - 62px);*/
 	left: 0;
 }
 #header .header-btn-collapse-nav {

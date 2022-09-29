@@ -1,80 +1,6 @@
-<style type="text/css">
-  
-  #kontak iframe {
-    /*width: 57%;*/
-    width: 100%;
-    height: 100%;
-    border:0;
-    background: #3c3f44;
-  }
-
-  .form_kontak {
-    float: right;
-    padding: 21px 30px 40px 20px;
-  }
-
-  @media (max-width: 767px) {
-    #kontak iframe {
-      padding: 23px 13px 15px 15px;
-    }
-  }
-
-  @media (min-width: 768px) and (max-width: 1580px) {
-    #kontak iframe {
-      padding: 15px 55px 15px 12px;
-    }
-  }
-
-  @media screen and (min-width: 768px) and (max-width: 1080px) {
-    .form_kontak {
-      left: 30px;
-      padding: 41px 30px 40px 20px;
-    }
-  }
-
-  @media screen and (min-width: 1081px) and (max-width: 1350px) {
-    .form_kontak {
-      left: 50px;
-      padding: 35px 35px 20px 35px;
-    }
-  }
-
-  @media screen and (min-width: 1351px) and (max-width: 1400px) {
-    .form_kontak {
-      left: 80px;
-      padding: 40px 30px 15px;
-    }
-  }
-
-  @media screen and (min-width: 1401px) and (max-width: 1450px) {
-    .form_kontak {
-      left: 100px;
-      padding: 40px 30px 15px;
-    }
-  }
-
-  @media screen and (min-width: 1451px) and (max-width: 1580px) {
-    .form_kontak {
-      left: 150px;
-      padding: 33px 60px 20px;
-    }
-  }
-
-  @media screen and (min-width: 1581px) {
-
-    .#kontak iframe {
-      padding: 15px 15px 15px 12px;
-    }
-
-    .form_kontak {
-      float: left;
-      padding: 40px 45px 20px 15px;
-    }
-  }
-
-</style>
 
 <div role="main" class="main">
+
   <div id="home" class="slider-container rev_slider_wrapper" style="height: 100vh;">
     <div id="revolutionSlider" class="slider manual rev_slider background-color-primary-dark">
       <ul>
@@ -761,19 +687,21 @@
 
   <section id="gallery" class="section section-no-border background-color-light m-none pb-xlg">
     <div class="container">
+
       <div class="row center">
         <div class="col-md-12">
           <h2>Galeri</h2>
           <!-- <p class="custom-section-sub-title">OUR WORKS</p> -->
         </div>
       </div>
+
     </div>
 
     <div class="container-fluid">
       <div class="row">
         <ul class="nav nav-pills sort-source custom-nav-filter custom-center-pills" data-sort-id="gallery" data-option-key="filter">
           <!-- <li data-option-value="*" class="active"><a href="#">PT LINTAS MARITIM JAYA</a></li> -->
-          <li data-option-value=".website"><a href="#">PT. LINTAS MARITIM JAYA</a></li>
+          <li data-option-value=".website" style="text-align: center;float: none;"><a href="#">PT. LINTAS MARITIM JAYA</a></li>
           <!-- <li data-option-value=".brands"><a href="#">BRANDS</a></li>
           <li data-option-value=".mobile-app"><a href="#">MOBILE APP</a></li>
           <li data-option-value=".others"><a href="#">OTHERS</a></li> -->

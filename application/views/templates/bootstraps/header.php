@@ -31,6 +31,9 @@
 		<link rel="stylesheet" href="<?=base_url()?>assets/vendor/owl.carousel/assets/owl.theme.default.min.css">
 		<link rel="stylesheet" href="<?=base_url()?>assets/vendor/magnific-popup/magnific-popup.min.css">
 
+		<!-- tera_byte CSS -->
+		<link rel="stylesheet" href="<?=base_url()?>assets/css/terabyte.css">
+
 		<!-- Theme CSS -->
 		<link rel="stylesheet" href="<?=base_url()?>assets/css/theme.css">
 		<link rel="stylesheet" href="<?=base_url()?>assets/css/theme-elements.css">

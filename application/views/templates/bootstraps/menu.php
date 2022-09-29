@@ -77,7 +77,7 @@
 
 										<li class="language">
 											<a href="<?=base_url()?>">
-												<img src="<?=base_url()?>assets/img/icons/eng.svg" alt="">
+												<img src="<?=base_url()?>assets/img/icons/eng.svg" alt="eng">
 											</a>
 										</li>
 
