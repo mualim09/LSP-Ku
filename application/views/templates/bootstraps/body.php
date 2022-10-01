@@ -76,38 +76,8 @@
     </div>
   </div>
 
-  <!-- <section id="about-us" class="section section-no-border background-color-light m-none">
-    <div class="container">
-      <div class="row center">
-        <div class="col-md-12">
-          <h2>ABOUT US</h2>
-          <p class="custom-section-sub-title"><?=$aplikasi->nama_unit?></p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6">
-          <p>
-            <strong class="font-weight-semibold text-color-dark">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas alias id hic odit accusamus veniam illum.</strong><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio excepturi voluptatibus ipsum natus molestiae blanditiis pariatur est molestias ex nostrum. Nobis veritatis, deserunt sint! Ipsa labore aliquam, adipisci minus ex, temporibus aliquid, sapiente aspernatur id, facere dolorem magni placeat cum consectetur officiis ducimus.
-          </p>
-        </div>
-        <div class="col-md-6 custom-margin-3 center">
-          <svg id="curved-line-1" x="0px" y="0px" width="545px" height="305px" viewBox="0 0 545 305" enable-background="new 0 0 545 305" xml:space="preserve">
-            <circle class="circle appear-animation" data-appear-animation="circle-anim" fill="none" stroke="#231F20" stroke-miterlimit="10" stroke-dasharray="2.0106,1.0053" cx="10.206" cy="9.91" r="8.167"/>
-            <circle class="circle-dashed" fill="none" stroke="white" stroke-miterlimit="10" stroke-dasharray="3,3" cx="10.206" cy="9.91" r="8.167"/>
-            <path class="path appear-animation" data-appear-animation="line-anim" data-appear-animation-delay="800" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-dasharray="2.0024,2.0024" d="M11.469,21.046
-              c3.191,19.81,32.779,130.736,292.756,87.863c280.979-46.337,240.717,145.948,212.215,185.401"/>
-            <path class="path-dashed" fill="none" stroke="white" stroke-miterlimit="10" stroke-dasharray="3,3" d="M11.469,21.046
-                c3.191,19.81,32.779,130.736,292.756,87.863c280.979-46.337,240.717,145.948,212.215,185.401"/>
-          </svg>
-          <img src="<?=base_url()?>assets/img/demos/one-page-agency/who-we-are/who-we-are-1.jpg" alt class="custom-image-style-1 _left" data-appear-animation="zoomIn" data-appear-animation-delay="1300" />
-          <img src="<?=base_url()?>assets/img/demos/one-page-agency/who-we-are/who-we-are-2.jpg" alt class="custom-image-style-1 _middle" data-appear-animation="zoomIn" data-appear-animation-delay="1800" />
-          <img src="<?=base_url()?>assets/img/demos/one-page-agency/who-we-are/who-we-are-3.jpg" alt class="custom-image-style-1 _right" data-appear-animation="zoomIn" data-appear-animation-delay="2300" />
-        </div>
-      </div>
-    </div>
-  </section> -->
 
+  <!-- section tentang kami -->
   <section id="about-us" class="section section-no-border background-color-light m-none">
     <div class="container">
       <div class="row center">
@@ -138,11 +108,13 @@
     </div>
   </section>
 
+
+  <!-- section visi dan misi -->
   <section id="visi-misi" class="section section-no-border background-color-light p-none">
     <div class="container">
       <div class="row center">
         <div class="col-md-12">
-          <h2>Visi and Misi</h2>
+          <h2>Visi dan Misi</h2>
           <p class="custom-section-sub-title"><?=$aplikasi->nama_unit?></p>
         </div>
       </div>
@@ -216,7 +188,8 @@
     </div>
   </section> -->
 
-  <section id="board-profil" class="section section-no-border background-color-primary-dark">
+  <!-- section pengurus -->
+  <section id="board-profil" class="section section-no-border background-color-primary-dark m-none">
     <div class="container">
       <div class="row center">
         <div class="col-md-12">
@@ -448,6 +421,7 @@
   </section>
 
 
+  <!-- section armada -->
   <section id="fleets" class="section section-no-border background-color-tertiary m-none">
     <div class="container">
       <div class="row center">
@@ -459,13 +433,14 @@
       <div class="row">
         <div class="col-md-12">
           <div class="owl-carousel show-nav-title custom-arrows-style-1" data-plugin-options="{'responsive': {'767': {'items': 1}, '1200': {'items': 3}}, 'margin': 15, 'loop': false, 'dots': false, 'nav': true}">
+
             <div class="center">
               <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
+                <!-- <span class="thumb-info-wrapper m-none">
                   <a href="#" class="text-decoration-none" title="Pt. lmj Website">
                     <img src="<?=base_url()?>assets/img/demos/one-page-agency/cases/case-1.jpg" class="img-responsive" alt="">
                   </a>
-                </span>
+                </span> -->
                 <span class="thumb-info-caption background-color-light center p-md">
                   <h4>
                     <a href="#" class="text-decoration-none text-color-dark">
@@ -477,13 +452,14 @@
               </article>
               <!-- <a href="#" class="btn custom-btn-style-1 text-color-dark mt-md">VIEW MORE</a> -->
             </div>
+
             <div class="center">
               <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
+                <!-- <span class="thumb-info-wrapper m-none">
                   <a href="#" class="text-decoration-none" title="Pt. lmj Website">
                     <img src="<?=base_url()?>assets/img/demos/one-page-agency/cases/case-2.jpg" class="img-responsive" alt="">
                   </a>
-                </span>
+                </span> -->
                 <span class="thumb-info-caption background-color-light center p-md">
                   <h4>
                     <a href="#" class="text-decoration-none text-color-dark">
@@ -495,13 +471,14 @@
               </article>
               <!-- <a href="#" class="btn custom-btn-style-1 text-color-dark mt-md">VIEW MORE</a> -->
             </div>
+
             <div class="center">
               <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
+                <!-- <span class="thumb-info-wrapper m-none">
                   <a href="#" class="text-decoration-none" title="Pt. lmj Website">
                     <img src="<?=base_url()?>assets/img/demos/one-page-agency/cases/case-3.jpg" class="img-responsive" alt="">
                   </a>
-                </span>
+                </span> -->
                 <span class="thumb-info-caption background-color-light center p-md">
                   <h4>
                     <a href="#" class="text-decoration-none text-color-dark">
@@ -513,13 +490,14 @@
               </article>
               <!-- <a href="#" class="btn custom-btn-style-1 text-color-dark mt-md">VIEW MORE</a> -->
             </div>
+
             <div class="center">
               <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
+                <!-- <span class="thumb-info-wrapper m-none">
                   <a href="#" class="text-decoration-none" title="Pt. lmj Website">
                     <img src="<?=base_url()?>assets/img/demos/one-page-agency/cases/case-1.jpg" class="img-responsive" alt="">
                   </a>
-                </span>
+                </span> -->
                 <span class="thumb-info-caption background-color-light center p-md">
                   <h4>
                     <a href="#" class="text-decoration-none text-color-dark">
@@ -531,13 +509,14 @@
               </article>
               <!-- <a href="#" class="btn custom-btn-style-1 text-color-dark mt-md">VIEW MORE</a> -->
             </div>
+
             <div class="center">
               <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
+                <!-- <span class="thumb-info-wrapper m-none">
                   <a href="#" class="text-decoration-none" title="Pt. lmj Website">
                     <img src="<?=base_url()?>assets/img/demos/one-page-agency/cases/case-2.jpg" class="img-responsive" alt="">
                   </a>
-                </span>
+                </span> -->
                 <span class="thumb-info-caption background-color-light center p-md">
                   <h4>
                     <a href="#" class="text-decoration-none text-color-dark">
@@ -549,13 +528,14 @@
               </article>
               <!-- <a href="#" class="btn custom-btn-style-1 text-color-dark mt-md">VIEW MORE</a> -->
             </div>
+
             <div class="center">
               <article class="thumb-info custom-thumb-info-style-2">
-                <span class="thumb-info-wrapper m-none">
+                <!-- <span class="thumb-info-wrapper m-none">
                   <a href="#" class="text-decoration-none" title="Pt. lmj Website">
                     <img src="<?=base_url()?>assets/img/demos/one-page-agency/cases/case-3.jpg" class="img-responsive" alt="">
                   </a>
-                </span>
+                </span> -->
                 <span class="thumb-info-caption background-color-light center p-md">
                   <h4>
                     <a href="#" class="text-decoration-none text-color-dark">
@@ -567,12 +547,14 @@
               </article>
               <!-- <a href="#" class="btn custom-btn-style-1 text-color-dark mt-md">VIEW MORE</a> -->
             </div>
+
           </div>
         </div>
       </div>
     </div>
   </section>
 
+  <!-- section pelanggan -->
   <section id="Customer" class="section section-no-border section-primary m-none">
     <div class="container">
 
@@ -685,7 +667,8 @@
     </div>
   </section>
 
-  <section id="gallery" class="section section-no-border background-color-light m-none pb-xlg">
+  <!-- section galeri -->
+  <section id="gallery" class="section section-no-border background-color-light m-none pb-none">
     <div class="container">
 
       <div class="row center">
@@ -869,6 +852,7 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.046565102942!2d106.74738881432283!3d-6.124435995565465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6a1d69a432fcbd%3A0x36926e394ba93111!2sLintas%20Maritim%20Jaya!5e0!3m2!1sid!2sid!4v1664469368150!5m2!1sid!2sid" allowfullscreen=""></iframe>
   </div>
 
+  <!-- section kontak kami -->
   <section class="section section-no-border m-none p-none">
     <div class="container">
       <div class="row">
