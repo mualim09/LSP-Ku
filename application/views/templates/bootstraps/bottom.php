@@ -5,7 +5,9 @@
         <!-- <div class="col-xs-8 col-sm-11 col-md-9"> -->
         <div class="col-xs-12 col-sm-12 col-md-12">
           <p>
-            © Copyright 2022. Develop By <a href="https://it-konsultan.com" target="_blank" style="color:#555555; text-decoration:none;"> I.C.I</a>
+            © Copyright <script>
+                      document.write(new Date().getFullYear())
+                    </script>. Develop By <a href="https://it-konsultan.com" target="_blank" style="color:#555555; text-decoration:none;"> I.C.I</a>
           </p>
         </div>
 
