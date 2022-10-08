@@ -15,7 +15,7 @@
     <div class="row">
 
       <div class="col-md-12">
-        <div class="col-md-2 col-sm-6 col-xs-6 custom-margin-4-sm owl-carousel show-nav-title custom-arrows-style-1" data-plugin-options="{'responsive': {'767': {'items': 1}, '1200': {'items': 3}}, 'margin': 15, 'loop': false, 'dots': false, 'nav': true}">
+        <div class="col-md-2 col-sm-6 col-xs-6 custom-margin-4-sm owl-carousel show-nav-title custom-arrows-style-1" data-plugin-options="{'responsive': {'767': {'items': 1}, '1200': {'items': 4}}, 'margin': 15, 'loop': false, 'dots': false, 'nav': true}">
 
 
             <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">

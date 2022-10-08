@@ -8,8 +8,8 @@
     </div>
 
     <div class="row">
-      <div class="col-md-12">
-        <div class="owl-carousel custom-arrows-style-1 custom-nav-pos-1 mb-none" data-plugin-options="{'items': 2, 'margin': 55, 'loop': false, 'dots': true, 'nav': true, 'stagePadding': 40}">
+      <div class="col-md-12 responsive-center">
+        <div class="owl-carousel custom-arrows-style-1 custom-nav-pos-1 mb-none" data-plugin-options="{'items': 2, 'margin': 55, 'loop': false , 'dots': true, 'nav': true, 'stagePadding': 40}">
 
           <div class="center">
             <span class="box-shdw-tb thumb-info custom-thumb-info-style-2">
