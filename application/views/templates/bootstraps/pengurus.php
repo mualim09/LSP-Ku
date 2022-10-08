@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row center">
       <div class="col-md-12">
-        <h2 class="text-color-dark-tb">Pengurus</h2>
+        <h2 class="text-color-dark-tb">Profile Pengurus</h2>
         <p class="custom-section-sub-title"><?=$aplikasi->nama_unit?></p>
       </div>
     </div>
@@ -19,7 +19,7 @@
                   <img src="<?=base_url()?>assets/img/pengurus/wibowo.jpg" class="img-responsive" alt="">
                 </a>
               </span>
-              <span class="thumb-info-caption background-color-primary center p-md">
+              <span class="thumb-info-caption background-color-dark-tb center p-md">
                 <h4 style="font-size:0.8em!important;">
                   <a href="#team-content-1" class="popup-with-zoom-anim text-decoration-none text-color-light" title="WIBOWO">
                     WIBOWO
@@ -84,7 +84,7 @@
                   <img src="<?=base_url()?>assets/img/pengurus/octavianus.jpg" class="img-responsive" alt="">
                 </a>
               </span>
-              <span class="thumb-info-caption background-color-primary center p-md">
+              <span class="thumb-info-caption background-color-dark-tb center p-md">
                 <h4 style="font-size:0.8em!important;">
                   <a href="#team-content-2" class="popup-with-zoom-anim text-decoration-none text-color-light" title="OCTAVIANUS SEMBIRING">
                     OCTAVIANUS SEMBIRING
@@ -145,7 +145,7 @@
                   <img src="<?=base_url()?>assets/img/pengurus/jeff.jpg" class="img-responsive" alt="">
                 </a>
               </span>
-              <span class="thumb-info-caption background-color-primary center p-md">
+              <span class="thumb-info-caption background-color-dark-tb center p-md">
                 <h4 style="font-size:0.8em!important;">
                   <a href="#team-content-3" class="popup-with-zoom-anim text-decoration-none text-color-light" title="JEFF DAMARIS PRIBADI">
                     JEFF DAMARIS PRIBADI
@@ -206,7 +206,7 @@
                   <img src="<?=base_url()?>assets/img/pengurus/alex.jpg" class="img-responsive" alt="">
                 </a>
               </span>
-              <span class="thumb-info-caption background-color-primary center p-md">
+              <span class="thumb-info-caption background-color-dark-tb center p-md">
                 <h4 style="font-size:0.8em!important;">
                   <a href="#team-content-4" class="popup-with-zoom-anim text-decoration-none text-color-light" title="ALEXANDER SUSANTO">
                     ALEXANDER SUSANTO

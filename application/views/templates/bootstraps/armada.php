@@ -1,9 +1,10 @@
-<section id="fleets" class="section section-no-border background-color-secondary m-none">
+
+<section id="fleets" class="section section-no-border background-color-primary m-none">
   <div class="container">
     <div class="row center">
       <div class="col-md-12">
-        <h2 class="text-color-dark-tb">Operasional dan Armada</h2>
-        <p class="text-color-dark-tb"><?=$aplikasi->nama_unit?></p>
+        <h2 class="text-color-light">Operasional dan Armada</h2>
+        <p class="text-color-light"><?=$aplikasi->nama_unit?></p>
       </div>
     </div>
 

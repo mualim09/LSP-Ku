@@ -20,7 +20,7 @@
 									<ul class="nav nav-pills" id="mainNav">
 										<li class="active">
 											<a href="#home" data-hash>
-												Beranda
+												 <i class="fa fa-home"></i> Beranda
 											</a>
 										</li>
 
@@ -31,7 +31,7 @@
 										</li> -->
 
 										<li class="dropdown dropdown-primary dropdown-mega" id="headerBookNow">
-											<a class="dropdown-toggle" href="#">
+											<a class="dropdown-toggle" href="#about-us" data-hash data-hash-offset="32">
 												Profil
 											</a>
 											<ul class="dropdown-menu dm-tb">
@@ -69,6 +69,12 @@
 										</li> -->
 
 										<li>
+											<a href="<?=base_url()?>assets/files/compro_lmj.pdf" target="_blank">
+												 <i class="fa fa-download"></i> Download
+											</a>
+										</li>
+
+										<li>
 											<a href="#kontak" data-hash data-hash-offset="74">
 												Kontak
 											</a>
@@ -76,7 +82,7 @@
 
 										<li class="language">
 											<a href="<?=base_url()?>">
-												<img src="<?=base_url()?>assets/img/icons/eng.svg" alt="eng">
+												<img src="<?=base_url()?>assets/img/icons/idn.svg" alt="indonesia">
 											</a>
 										</li>
 

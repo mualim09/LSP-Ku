@@ -1,13 +1,11 @@
 
-
-
 <!-- section pelanggan -->
 <section id="Customer" class="section section-no-border section-light m-none">
   <div class="container">
 
     <div class="row center">
       <div class="col-md-12">
-        <h2>Pelanggan</h2>
+        <h2>Pelanggan Kami</h2>
         <p class="custom-section-sub-title"><?=$aplikasi->nama_unit?></p>
       </div>
     </div>
