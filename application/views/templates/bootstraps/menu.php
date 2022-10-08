@@ -62,12 +62,11 @@
 											</a>
 										</li>
 
-										<li>
-											<!-- <a href="<?=base_url()?>gallery" data-hash data-hash-offset="32"> -->
+										<!-- <li>
 											<a href="#gallery" data-hash data-hash-offset="32">
 												Galeri
 											</a>
-										</li>
+										</li> -->
 
 										<li>
 											<a href="#kontak" data-hash data-hash-offset="74">
