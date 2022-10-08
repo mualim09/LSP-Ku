@@ -30,18 +30,30 @@
 											</a>
 										</li> -->
 
-										<li class="dropdown dropdown-primary dropdown-mega" id="headerBookNow">
+										<!-- <li class="dropdown dropdown-primary dropdown-mega" id="headerBookNow">
 											<a class="dropdown-toggle" href="#about-us" data-hash data-hash-offset="32">
 												Profil
 											</a>
 											<ul class="dropdown-menu dm-tb">
+												<li>
+													<a href="#sejarah" data-hash data-hash-offset="32">Sejarah Perusahaan</a>
+												</li>
 												<li>
 													<a href="#about-us" data-hash data-hash-offset="32">Tentang Kami</a>
 												</li>
 												<li>
 													<a href="#visi-misi" data-hash data-hash-offset="98">Visi & Misi</a>
 												</li>
+												<li>
+													<a href="#nilai-nilai" data-hash data-hash-offset="98">Nilai-Nilai Perusahaan</a>
+												</li>
 											</ul>
+										</li> -->
+
+										<li>
+											<a href="#profil-perusahaan" data-hash data-hash-offset="64">
+												Profil
+											</a>
 										</li>
 
 										<li>

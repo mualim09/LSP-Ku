@@ -122,9 +122,8 @@ html .heading.heading-light h6 {
 	border-color: #ffffff;
 }
 
-html .background-color-tb {
-	/* background-color: rgba(187, 187, 187, 0.80) !important; */
-	background-color: #ddd;
+html .background-color-light-tb {
+	background-color: #e8e8e8 !important;
 }
 
 html .background-color-dark-tb {
@@ -2697,7 +2696,7 @@ section.video blockquote i.fa-quote-left {
 }
 
 html .panel-group.panel-group-primary .panel-heading {
-	background-color: #019fdc !important;
+	/* background-color: #019fdc !important; */
 }
 
 html .panel-group.panel-group-primary .panel-heading a {

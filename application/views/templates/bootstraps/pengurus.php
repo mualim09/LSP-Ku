@@ -1,5 +1,5 @@
 <!-- section pengurus -->
-<section id="board-profil" class="section section-no-border background-color-tb m-none">
+<section id="board-profil" class="section section-no-border background-color-light m-none">
   <div class="container">
     <div class="row center">
       <div class="col-md-12">
