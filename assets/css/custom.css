@@ -94,7 +94,7 @@ ul.history li .thumb .img-background-4
 }
 html .panel-group.panel-group-primary .bg-panel-1,
 ul.history li .thumb .img-background-1 {
-  background-color: #3f506c;
+  background-color: #3f506c!important;
 }
 ul.history li .featured-box .border-top-1 {
   border-top-color: #3f506c!important;
@@ -105,7 +105,7 @@ ul.history li .featured-box .border-top-1 {
 }
 html .panel-group.panel-group-primary .bg-panel-2,
 ul.history li .thumb .img-background-2 {
-  background-color: #fec92b;
+  background-color: #fec92b!important;
 }
 ul.history li .featured-box .border-top-2 {
   border-top-color: #fec92b!important;
@@ -116,7 +116,7 @@ ul.history li .featured-box .border-top-2 {
 }
 html .panel-group.panel-group-primary .bg-panel-3,
 ul.history li .thumb .img-background-3 {
-  background-color: #e23b59;
+  background-color: #e23b59!important;
 }
 ul.history li .featured-box .border-top-3 {
   border-top-color: #e23b59!important;
@@ -127,7 +127,7 @@ ul.history li .featured-box .border-top-3 {
 }
 html .panel-group.panel-group-primary .bg-panel-4,
 ul.history li .thumb .img-background-4 {
-  background-color: #115e8c;
+  background-color: #115e8c!important;
 }
 ul.history li .featured-box .border-top-4 {
   border-top-color: #115e8c!important;

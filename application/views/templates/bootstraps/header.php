@@ -68,4 +68,4 @@
 	<body data-spy="scroll" data-target=".wrapper-spy" data-offset="100">
 		<div class="body">
 
-			<?=$this->load->view('templates/bootstraps/menu'); ?>
+		<?=$this->load->view('templates/bootstraps/menu'); ?>
