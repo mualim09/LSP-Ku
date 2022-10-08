@@ -1,4 +1,24 @@
 
+<style media="screen">
+  @media screen and (min-width: 991px) and (max-width: 1200px) {
+    .responsive-center{
+      margin-left: 200px!important;
+    }
+  }
+
+  @media screen and (min-width: 1200px) and (max-width: 1299px) {
+    .responsive-center{
+      margin-left: 270px!important;
+    }
+  }
+
+  @media screen and (min-width: 1300px) {
+    .responsive-center{
+      margin-left: 275px!important;
+    }
+  }
+</style>
+
 <section id="fleets" class="section section-no-border background-color-primary m-none">
   <div class="container">
     <div class="row center">

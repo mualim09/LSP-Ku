@@ -1,7 +1,22 @@
+<style media="screen">
+
+  .footer-tb {
+    margin: 30px 0px 0px 0px;
+  }
+
+  @media screen and (min-width: 991px) {
+    .footer-tb {
+      float: right;
+    }
+  }
+
+
+</style>
+
 <footer id="footer" class="m-none p-none">
-  <div class="footer-copyright background-color-tertiary">
-    <div class="container">
-      <div class="row">
+  <div class="footer-tb background-color-tertiary">
+    <!-- <div class="container">
+      <div class="row"> -->
         <!-- <div class="col-xs-8 col-sm-11 col-md-9"> -->
         <div class="col-xs-12 col-sm-12 col-md-12">
           <p>
@@ -31,8 +46,9 @@
           </ul>
         </div> -->
 
-      </div>
-    </div>
+      <!-- </div>
+    </div> -->
+
   </div>
 </footer>
 
