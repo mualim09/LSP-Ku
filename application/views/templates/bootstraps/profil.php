@@ -1,6 +1,32 @@
 
 <style media="screen">
 
+  html .heading-tb,
+  html .lnk-tb,
+  html .text-color-tb {
+    color: #bbb !important;
+  }
+  html .text-color-dark-tb {
+    color: rgba(4, 31, 43, 0.75) !important;
+  }
+
+  html .heading.heading-tb h1,
+  html .heading.heading-tb h2,
+  html .heading.heading-tb h3,
+  html .heading.heading-tb h4,
+  html .heading.heading-tb h5,
+  html .heading.heading-tb h6 {
+    border-color: #666;
+  }
+
+  html .background-color-light-tb {
+    background-color: #e8e8e8 !important;
+  }
+
+  html .background-color-dark-tb {
+    background-color: rgba(4, 31, 43, 0.75) !important;
+  }
+
   ul.history li .thumb {
     background: transparent url(<?=base_url("assets/img/demos/history-thumb.png")?>) no-repeat 0 0;
   }
