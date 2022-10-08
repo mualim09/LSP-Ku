@@ -1,21 +1,21 @@
-<section id="fleets" class="section section-no-border background-color-primary m-none">
+<section id="fleets" class="section section-no-border background-color-secondary m-none">
   <div class="container">
     <div class="row center">
       <div class="col-md-12">
-        <h2 class="text-color-light">Operasional dan Armada</h2>
-        <p class="text-color-light"><?=$aplikasi->nama_unit?></p>
+        <h2 class="text-color-dark-tb">Operasional dan Armada</h2>
+        <p class="text-color-dark-tb"><?=$aplikasi->nama_unit?></p>
       </div>
     </div>
 
     <div class="row">
       <div class="col-md-12">
-        <div class="owl-carousel custom-arrows-style-1 custom-nav-pos-1 mb-none" data-plugin-options="{'items': 2, 'margin': 40, 'loop': false, 'dots': true, 'nav': true, 'stagePadding': 40}">
+        <div class="owl-carousel custom-arrows-style-1 custom-nav-pos-1 mb-none" data-plugin-options="{'items': 2, 'margin': 55, 'loop': false, 'dots': true, 'nav': true, 'stagePadding': 40}">
 
-          <div class="center box-shdw-tb">
-            <span class="thumb-info custom-thumb-info-style-2">
+          <div class="center">
+            <span class="box-shdw-tb thumb-info custom-thumb-info-style-2">
               <span class="thumb-info-wrapper m-none">
                 <a href="#fleets-1" class="popup-with-zoom-anim text-decoration-none" title="Tugboat KSD 20">
-                  <img src="<?=base_url()?>assets/img/armada/tugboat.png" class="img-responsive box-shdw-tb" alt="" style="filter: brightness(120%);">
+                  <img src="<?=base_url()?>assets/img/armada/tugboat.png" class="img-responsive" alt="" style="filter: brightness(120%);">
                 </a>
               </span>
               <span class="thumb-info-caption background-color-tertiary center p-md">
@@ -108,11 +108,11 @@
           </div>
 
 
-          <div class="center box-shdw-tb">
-            <span class="thumb-info custom-thumb-info-style-2">
+          <div class="center">
+            <span class="box-shdw-tb thumb-info custom-thumb-info-style-2">
               <span class="thumb-info-wrapper m-none">
                 <a href="#fleets-2" class="popup-with-zoom-anim text-decoration-none" title="Tongkang KSD 23">
-                  <img src="<?=base_url()?>assets/img/armada/tongkang.png" class="img-responsive box-shdw-tb" alt="" style="filter: brightness(200%);">
+                  <img src="<?=base_url()?>assets/img/armada/tongkang.png" class="img-responsive" alt="" style="filter: brightness(200%);">
                 </a>
               </span>
               <span class="thumb-info-caption background-color-tertiary center p-md">

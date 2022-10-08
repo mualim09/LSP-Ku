@@ -19,6 +19,9 @@ html .lnk-tb,
 html .text-color-tb {
 	color: #bbb !important;
 }
+html .text-color-dark-tb {
+	color: rgba(4, 31, 43, 0.75) !important;
+}
 
 html .heading.heading-tb h1,
 html .heading.heading-tb h2,
@@ -117,6 +120,15 @@ html .heading.heading-light h4,
 html .heading.heading-light h5,
 html .heading.heading-light h6 {
 	border-color: #ffffff;
+}
+
+html .background-color-tb {
+	/* background-color: rgba(187, 187, 187, 0.80) !important; */
+	background-color: #ddd;
+}
+
+html .background-color-dark-tb {
+	background-color: rgba(4, 31, 43, 0.75) !important;
 }
 
 html .background-color-primary-dark {

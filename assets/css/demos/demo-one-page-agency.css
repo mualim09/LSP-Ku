@@ -273,7 +273,7 @@ html .scroll-to-top.visible {
 }
 .owl-carousel.custom-arrows-style-1 .owl-nav [class*="owl-"], .owl-carousel.custom-arrows-style-1 .owl-nav [class*="owl-"]:hover {
 	font-size: 30px;
-	/* color: #2e353e !important; */
+	color: #041f2b !important;
 	background: transparent;
 }
 .owl-carousel.custom-arrows-style-1 .owl-nav .owl-prev:before {
