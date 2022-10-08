@@ -1,4 +1,6 @@
 
+
+
 <!-- section pelanggan -->
 <section id="Customer" class="section section-no-border section-light m-none">
   <div class="container">
@@ -16,7 +18,7 @@
         <div class="col-md-2 col-sm-6 col-xs-6 custom-margin-4-sm owl-carousel show-nav-title custom-arrows-style-1" data-plugin-options="{'responsive': {'767': {'items': 1}, '1200': {'items': 3}}, 'margin': 15, 'loop': false, 'dots': false, 'nav': true}">
 
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -26,7 +28,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -36,7 +38,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -46,7 +48,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -56,7 +58,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -66,7 +68,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -76,7 +78,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -86,7 +88,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               Lebar : 8,6 M quaternary
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-dark" title="TUGBOAT">
@@ -96,7 +98,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -106,7 +108,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -116,7 +118,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -126,7 +128,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -136,7 +138,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
@@ -146,7 +148,7 @@
               </span>
             </span>
 
-            <span class="thumb-info custom-thumb-info-style-2" style="border-radius: 4px;">
+            <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
                 <h4 class="font-size-sm">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">

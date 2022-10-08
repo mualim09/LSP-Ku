@@ -4,7 +4,7 @@
     <div class="row center">
       <div class="col-md-12">
         <h2 class="text-color-tb">Pengurus</h2>
-        <p class="custom-section-sub-title"><?=$aplikasi->nama_unit?></p>
+        <p class="custom-section-sub-title text-color-tb"><?=$aplikasi->nama_unit?></p>
       </div>
     </div>
 
@@ -19,13 +19,13 @@
                   <img src="<?=base_url()?>assets/img/logo1_transparent.png" class="img-responsive" alt="">
                 </a>
               </span>
-              <span class="thumb-info-caption background-color-tertiary center p-md">
+              <span class="thumb-info-caption background-color-primary center p-md">
                 <h4 style="font-size:0.8em!important;">
-                  <a href="#team-content-1" class="popup-with-zoom-anim text-decoration-none text-color-dark" title="WIBOWO">
+                  <a href="#team-content-1" class="popup-with-zoom-anim text-decoration-none text-color-light" title="WIBOWO">
                     WIBOWO
                   </a>
                 </h4>
-                <p class="custom-thumb-info-category">KOMISARIS UTAMA</p>
+                <p class="custom-thumb-info-category text-color-light">KOMISARIS UTAMA</p>
               </span>
             </span>
             <div id="team-content-1" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
@@ -72,13 +72,13 @@
                   <img src="<?=base_url()?>assets/img/logo1_transparent.png" class="img-responsive" alt="">
                 </a>
               </span>
-              <span class="thumb-info-caption background-color-tertiary center p-md">
+              <span class="thumb-info-caption background-color-primary center p-md">
                 <h4 style="font-size:0.8em!important;">
-                  <a href="#team-content-2" class="popup-with-zoom-anim text-decoration-none text-color-dark" title="OCTAVIANUS SEMBIRING">
+                  <a href="#team-content-2" class="popup-with-zoom-anim text-decoration-none text-color-light" title="OCTAVIANUS SEMBIRING">
                     OCTAVIANUS SEMBIRING
                   </a>
                 </h4>
-                <p class="custom-thumb-info-category">KOMISARIS</p>
+                <p class="custom-thumb-info-category text-color-light">KOMISARIS</p>
               </span>
             </span>
             <div id="team-content-2" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
@@ -125,13 +125,13 @@
                   <img src="<?=base_url()?>assets/img/logo1_transparent.png" class="img-responsive" alt="">
                 </a>
               </span>
-              <span class="thumb-info-caption background-color-tertiary center p-md">
+              <span class="thumb-info-caption background-color-primary center p-md">
                 <h4 style="font-size:0.8em!important;">
-                  <a href="#team-content-3" class="popup-with-zoom-anim text-decoration-none text-color-dark" title="JEFF DAMARIS PRIBADI">
+                  <a href="#team-content-3" class="popup-with-zoom-anim text-decoration-none text-color-light" title="JEFF DAMARIS PRIBADI">
                     JEFF DAMARIS PRIBADI
                   </a>
                 </h4>
-                <p class="custom-thumb-info-category">DIREKTUR UTAMA</p>
+                <p class="custom-thumb-info-category text-color-light">DIREKTUR UTAMA</p>
               </span>
             </span>
             <div id="team-content-3" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
@@ -178,13 +178,13 @@
                   <img src="<?=base_url()?>assets/img/logo1_transparent.png" class="img-responsive" alt="">
                 </a>
               </span>
-              <span class="thumb-info-caption background-color-tertiary center p-md">
+              <span class="thumb-info-caption background-color-primary center p-md">
                 <h4 style="font-size:0.8em!important;">
-                  <a href="#team-content-4" class="popup-with-zoom-anim text-decoration-none text-color-dark" title="ALEXANDER SUSANTO">
+                  <a href="#team-content-4" class="popup-with-zoom-anim text-decoration-none text-color-light" title="ALEXANDER SUSANTO">
                     ALEXANDER SUSANTO
                   </a>
                 </h4>
-                <p class="custom-thumb-info-category">DIREKTUR</p>
+                <p class="custom-thumb-info-category text-color-light">DIREKTUR</p>
               </span>
             </span>
             <div id="team-content-4" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">

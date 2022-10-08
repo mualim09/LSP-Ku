@@ -11,11 +11,11 @@
       <div class="col-md-12">
         <div class="owl-carousel custom-arrows-style-1 custom-nav-pos-1 mb-none" data-plugin-options="{'items': 2, 'margin': 40, 'loop': false, 'dots': true, 'nav': true, 'stagePadding': 40}">
 
-          <div class="center">
+          <div class="center box-shdw-tb">
             <span class="thumb-info custom-thumb-info-style-2">
               <span class="thumb-info-wrapper m-none">
                 <a href="#fleets-1" class="popup-with-zoom-anim text-decoration-none" title="Tugboat KSD 20">
-                  <img src="<?=base_url()?>assets/img/armada/tugboat.png" class="img-responsive" alt="">
+                  <img src="<?=base_url()?>assets/img/armada/tugboat.png" class="img-responsive box-shdw-tb" alt="" style="filter: brightness(120%);">
                 </a>
               </span>
               <span class="thumb-info-caption background-color-tertiary center p-md">
@@ -31,7 +31,7 @@
             <div id="fleets-1" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
               <div class="row">
                 <div class="col-md-4 col-sm-4">
-                  <img src="<?=base_url()?>assets/img/armada/tugboat.png" class="img-responsive mb-lg mt-xlg" alt="">
+                  <img src="<?=base_url()?>assets/img/armada/tugboat.png" class="img-responsive mb-lg mt-xlg" alt="" style="filter: brightness(120%);box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                 </div>
                 <div class="col-md-8 col-sm-8">
                   <h2 class="font-weight-semibold text-color-primary">Tugboat KSD 20</h2>
@@ -108,11 +108,11 @@
           </div>
 
 
-          <div class="center">
+          <div class="center box-shdw-tb">
             <span class="thumb-info custom-thumb-info-style-2">
               <span class="thumb-info-wrapper m-none">
                 <a href="#fleets-2" class="popup-with-zoom-anim text-decoration-none" title="Tongkang KSD 23">
-                  <img src="<?=base_url()?>assets/img/armada/tongkang.png" class="img-responsive" alt="">
+                  <img src="<?=base_url()?>assets/img/armada/tongkang.png" class="img-responsive box-shdw-tb" alt="" style="filter: brightness(200%);">
                 </a>
               </span>
               <span class="thumb-info-caption background-color-tertiary center p-md">
@@ -128,7 +128,7 @@
             <div id="fleets-2" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
               <div class="row">
                 <div class="col-md-4 col-sm-4">
-                  <img src="<?=base_url()?>assets/img/armada/tongkang.png" class="img-responsive mb-lg mt-xlg" alt="">
+                  <img src="<?=base_url()?>assets/img/armada/tongkang.png" class="img-responsive mb-lg mt-xlg" alt="" style="filter: brightness(200%);box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                 </div>
 
                 <div class="col-md-8 col-sm-8">
