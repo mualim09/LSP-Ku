@@ -87,9 +87,9 @@
             </span>
 
             <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
-              Lebar : 8,6 M quaternary
-                <h4 class="font-size-sm">
-                  <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-dark" title="TUGBOAT">
+              <span class="thumb-info-caption background-color-primary-dark center p-md">
+                <h4 class="" style="font-size:0.8em">
+                  <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
                     PT. PELAYARAN SAMUDERA HANJAYA
                   </a>
                 </h4>
@@ -118,7 +118,7 @@
 
             <span class="thumb-info custom-thumb-info-style-2 box-shdw-tb" style="border-radius: 4px;">
               <span class="thumb-info-caption background-color-primary-dark center p-md">
-                <h4 class="font-size-sm">
+                <h4 class="" style="font-size:0.8em">
                   <a href="#" class="popup-with-zoom-anim text-decoration-none text-color-light" title="pelanggan">
                     PT. ANUGERAH MINERAL SEMESTA
                   </a>
