@@ -36,7 +36,7 @@
             <span class="box-shdw-tb thumb-info custom-thumb-info-style-2">
               <span class="thumb-info-wrapper m-none">
                 <a href="#fleets-1" class="popup-with-zoom-anim text-decoration-none" title="Tugboat KSD 20">
-                  <img src="<?=base_url()?>assets/img/armada/tongkang.png" class="img-responsive" alt="" style="filter: brightness(120%);">
+                  <img src="<?=base_url()?>assets/img/armada/ksd-20.jpg" class="img-responsive" alt="" style="filter: brightness(120%);">
                 </a>
               </span>
               <span class="thumb-info-caption background-color-tertiary center p-md">
@@ -52,7 +52,7 @@
             <div id="fleets-1" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
               <div class="row">
                 <div class="col-md-4 col-sm-4">
-                  <img src="<?=base_url()?>assets/img/armada/tongkang.png" class="img-responsive mb-lg mt-xlg" alt="" style="filter: brightness(120%);box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                  <img src="<?=base_url()?>assets/img/armada/ksd-20.jpg" class="img-responsive mb-lg mt-xlg" alt="" style="filter: brightness(120%);box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                 </div>
                 <div class="col-md-8 col-sm-8">
                   <h2 class="font-weight-semibold text-color-primary">Tugboat KSD 20</h2>
@@ -133,7 +133,7 @@
             <span class="box-shdw-tb thumb-info custom-thumb-info-style-2">
               <span class="thumb-info-wrapper m-none">
                 <a href="#fleets-2" class="popup-with-zoom-anim text-decoration-none" title="Tongkang KSD 23">
-                  <img src="<?=base_url()?>assets/img/armada/tugboat.png" class="img-responsive" alt="" style="filter: brightness(200%);">
+                  <img src="<?=base_url()?>assets/img/armada/ksd-23.jpg" class="img-responsive" alt="" style="filter: brightness(120%);">
                 </a>
               </span>
               <span class="thumb-info-caption background-color-tertiary center p-md">
@@ -149,7 +149,7 @@
             <div id="fleets-2" class="dialog dialog-lg zoom-anim-dialog mfp-hide p-xlg">
               <div class="row">
                 <div class="col-md-4 col-sm-4">
-                  <img src="<?=base_url()?>assets/img/armada/tugboat.png" class="img-responsive mb-lg mt-xlg" alt="" style="filter: brightness(200%);box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                  <img src="<?=base_url()?>assets/img/armada/ksd-23.jpg" class="img-responsive mb-lg mt-xlg" alt="" style="filter: brightness(120%);box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                 </div>
 
                 <div class="col-md-8 col-sm-8">
