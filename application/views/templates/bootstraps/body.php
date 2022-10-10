@@ -6,7 +6,7 @@
       <ul>
         <li data-transition="fade">
           <!-- <img src="<?=base_url()?>assets/img/demos/one-page-agency/slides/slide-1.jpg"> -->
-          <img src="<?=base_url()?>assets/img/slides/slider_3.jpg"
+          <img src="<?=base_url()?>assets/img/slides/slider_1.jpg"
             alt=""
             data-bgposition="center center"
             data-bgfit="cover"
@@ -39,8 +39,8 @@
 
         </li>
 
-        <!-- <li data-transition="fade">
-          <img src="<?=base_url()?>assets/img/demos/one-page-agency/slides/slide-2.jpg"
+        <li data-transition="fade">
+          <img src="<?=base_url()?>assets/img/slides/slider_3.jpg"
             alt=""
             data-bgposition="center center"
             data-bgfit="cover"
@@ -52,7 +52,7 @@
             data-y="center" data-voffset="-55"
             data-start="500"
             data-fontsize="80"
-            data-transform_in="y:[-300%];opacity:0;s:500;">MOBILE DESIGN?</h1>
+            data-transform_in="y:[-300%];opacity:0;s:500;">PT LMJ</h1>
 
           <div class="tp-caption text-color-light"
             data-x="['left','left','left','left']" data-hoffset="['0','0','30','85']"
@@ -62,16 +62,17 @@
             data-whitespace="nowrap"
             data-transform_in="y:[100%];s:500;"
             data-transform_out="opacity:0;s:500;"
-            data-mask_in="x:0px;y:0px;">CHECK OUR OPTIONS AND FEATURES</div>
+            data-mask_in="x:0px;y:0px;">&nbsp;LINTAS MARITIM JAYA</div>
 
           <div class="tp-caption"
             data-x="['left','left','left','left']" data-hoffset="['0','0','30','85']"
             data-y="['center','center','center','center']" data-voffset="['15','15','15','35']"
             data-start="2000"
             data-fontsize="['12','12','12','19']"
-            data-transform_in="y:[100%];opacity:0;s:500;">PT. LMJ - NEW YORK/NY</div>
+            data-transform_in="y:[100%];opacity:0;s:500;">&nbsp;&nbsp;Akta No. 54 Tanggal 12 Juni 2012</div>
 
-        </li> -->
+        </li>
+
       </ul>
     </div>
   </div>
