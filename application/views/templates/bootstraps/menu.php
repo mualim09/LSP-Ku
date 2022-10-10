@@ -82,7 +82,7 @@
 
 										<li>
 											<a href="<?=base_url()?>assets/files/compro_lmj.pdf" target="_blank">
-												 <i class="fa fa-download"></i> Download
+												 <i class="fa fa-download"></i> Unduh
 											</a>
 										</li>
 
@@ -93,8 +93,8 @@
 										</li>
 
 										<li class="language">
-											<a href="<?=base_url()?>">
-												<img src="<?=base_url()?>assets/img/icons/idn.svg" alt="indonesia">
+											<a href="#">
+												<img src="<?=base_url()?>assets/img/icons/idn.svg" alt="tera_byte">
 											</a>
 										</li>
 
