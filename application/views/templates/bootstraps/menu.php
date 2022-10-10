@@ -1,3 +1,19 @@
+<style media="screen">
+	.language{
+		float: right!important;
+	}
+
+	.language>select{
+		margin-top: 8px!important;
+		padding: 2px!important;
+		border-radius: 2px!important;
+		border-color: #019fdc!important;
+		background: #fff!important;
+		color: #093a74!important;
+		/* font-weight: bold; */
+	}
+</style>
+
 <header id="header" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAtElement': '#header', 'stickySetTop': '0', 'stickyChangeLogo': false}">
 	<div class="header-body">
 		<div class="header-container container">
