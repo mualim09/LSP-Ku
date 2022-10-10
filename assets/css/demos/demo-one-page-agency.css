@@ -402,6 +402,14 @@ html.sticky-header-active #header .header-body {
 	float: right!important;
 }
 
+.language>select{
+	margin-top: 8px;
+	padding: 2px;
+	border-radius: 2px;
+	background: #019fdc;
+	color: #fff;
+}
+
 /*
 * Who We Are
 */

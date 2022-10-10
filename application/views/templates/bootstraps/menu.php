@@ -20,7 +20,8 @@
 									<ul class="nav nav-pills" id="mainNav">
 										<li class="active">
 											<a href="#home" data-hash>
-												 <i class="fa fa-home"></i> Beranda
+												 <i class="fa fa-home"></i>
+												 <?php echo $this->lang->line('menu_1'); ?>
 											</a>
 										</li>
 
@@ -52,25 +53,29 @@
 
 										<li>
 											<a href="#profil-perusahaan" data-hash data-hash-offset="64">
-												Profil
+												<!-- Profil -->
+												<?php echo $this->lang->line('menu_2'); ?>
 											</a>
 										</li>
 
 										<li>
 											<a href="#board-profil" data-hash data-hash-offset="64">
-												Pengurus
+												<!-- Pengurus -->
+												<?php echo $this->lang->line('menu_3'); ?>
 											</a>
 										</li>
 
 										<li>
 											<a href="#fleets" data-hash data-hash-offset="32">
-												Armada
+												<!-- Armada -->
+												<?php echo $this->lang->line('menu_4'); ?>
 											</a>
 										</li>
 
 										<li>
 											<a href="#Customer" data-hash data-hash-offset="32">
-												Pelanggan
+												<!-- Pelanggan -->
+												<?php echo $this->lang->line('menu_5'); ?>
 											</a>
 										</li>
 
@@ -82,21 +87,34 @@
 
 										<li>
 											<a href="<?=base_url()?>assets/files/compro_lmj.pdf" target="_blank">
-												 <i class="fa fa-download"></i> Unduh
+												 <i class="fa fa-download"></i>
+												 <!-- Unduh -->
+												 <?php echo $this->lang->line('menu_6'); ?>
 											</a>
 										</li>
 
 										<li>
 											<a href="#kontak" data-hash data-hash-offset="74">
-												Kontak
+												<!-- Kontak -->
+												<?php echo $this->lang->line('menu_7'); ?>
 											</a>
 										</li>
 
-										<li class="language">
+										<!-- <li class="language">
 											<a href="#">
 												<img src="<?=base_url()?>assets/img/icons/idn.svg" alt="tera_byte">
 											</a>
+										</li> -->
+
+										<li class="language">
+											<select onchange="javascript:window.location.href='<?php echo base_url(); ?>languageswitcher/switchLang/'+this.value;">
+											 <option value="indonesia" <?php if($this->session->userdata('site_lang') == 'indonesia') echo 'selected="selected"'; ?>>Indonesia</option>
+										   <option value="english" <?php if($this->session->userdata('site_lang') == 'english') echo 'selected="selected"'; ?>>English</option>
+										  </select>
+											<!-- <p><?php echo $this->lang->line('menu_test'); ?></p> -->
 										</li>
+
+
 
 									</ul>
 								</nav>

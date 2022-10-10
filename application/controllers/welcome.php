@@ -14,7 +14,7 @@ class Welcome extends MY_Controller {
         $kuk = kode_lsp() . 'kuk';
         $asesi = kode_lsp() . 'asesi';
         $asesi_detail = kode_lsp() . 'asesi_detail';
-        
+
         $this->load->model('welcome_model');
         $this->load->model('artikel_model');
         $this->load->model('album_galeri_model');
