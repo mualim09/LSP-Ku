@@ -107,7 +107,10 @@
 
     <div class="row center">
       <div class="col-md-12">
-        <h2>Profil Perusahaan</h2>
+        <h2>
+          <!-- Profil Perusahaan -->
+          <?php echo $this->lang->line('header_profil'); ?>
+        </h2>
         <p class="custom-section-sub-title"><?=$aplikasi->nama_unit?></p>
       </div>
     </div>
@@ -119,13 +122,22 @@
 
           <ul class="nav nav-tabs nav-justified tabs-simple">
             <li class="active">
-              <a href="#sejarah-perusahaan" data-toggle="tab" class="text-color-dark-tb semi-bold text-center">Sejarah Perusashaan</a>
+              <a href="#sejarah-perusahaan" data-toggle="tab" class="text-color-dark-tb semi-bold text-center">
+                <!-- Sejarah Perusashaan -->
+                <?php echo $this->lang->line('profil_nav1'); ?>
+              </a>
             </li>
             <li>
-              <a href="#visi-misi" data-toggle="tab" class="text-color-dark-tb semi-bold text-center">Visi & Misi</a>
+              <a href="#visi-misi" data-toggle="tab" class="text-color-dark-tb semi-bold text-center">
+                <!-- Visi & Misi -->
+                <?php echo $this->lang->line('profil_nav2'); ?>
+              </a>
             </li>
             <li>
-              <a href="#nilai-nilai" data-toggle="tab" class="text-color-dark-tb semi-bold text-center">Nilai-Nilai Perusashaan</a>
+              <a href="#nilai-nilai" data-toggle="tab" class="text-color-dark-tb semi-bold text-center">
+                <!-- Nilai-Nilai Perusashaan -->
+                <?php echo $this->lang->line('profil_nav3'); ?>
+              </a>
             </li>
           </ul>
 
@@ -142,8 +154,14 @@
 										<div class="border-top-1 box-content">
 											<h4 class="thumb-color-1"><strong>2012</strong></h4>
 
-                      <p class="justify">PT Lintas Maritim Jaya Didirikan pada tahun 2012 berdasarkan akta No. 54 Tanggal 12 Juni 2012 yang dibuat oleh Notaris Edison Jingga, SH di Jakarta. PT LINTAS MARITIM JAYA merupakan perusahaan pelayaran swasta nasional di bidang jasa penyewaan Tugboat dan Tongkang (Tug and Barge) untuk pengangkutan komoditas dan sumber daya alam di Indonesia yang secara geografis merupakan negara maritim.</p>
-                      <p class="justify">Nama PT LINTAS MARITIM JAYA mengandung arti dan cita-cita menjadi perusahaan pelayaran yang tangguh dalam melintasi perairan nasional dan dapat terus berjaya di masa pertumbuhan yang berkelanjutan.</p>
+                      <p class="justify">
+                        <!-- PT Lintas Maritim Jaya Didirikan pada tahun 2012 berdasarkan akta No. 54 Tanggal 12 Juni 2012 yang dibuat oleh Notaris Edison Jingga, SH di Jakarta. PT LINTAS MARITIM JAYA merupakan perusahaan pelayaran swasta nasional di bidang jasa penyewaan Tugboat dan Tongkang (Tug and Barge) untuk pengangkutan komoditas dan sumber daya alam di Indonesia yang secara geografis merupakan negara maritim. -->
+                        <?php echo $this->lang->line('profil_sejarah1_1'); ?>
+                      </p>
+                      <p class="justify">
+                        <!-- Nama PT LINTAS MARITIM JAYA mengandung arti dan cita-cita menjadi perusahaan pelayaran yang tangguh dalam melintasi perairan nasional dan dapat terus berjaya di masa pertumbuhan yang berkelanjutan. -->
+                        <?php echo $this->lang->line('profil_sejarah1_2'); ?>
+                      </p>
 										</div>
 									</div>
 								</li>
@@ -156,9 +174,18 @@
 										<div class="border-top-2 box-content">
 											<h4 class="thumb-color-2"><strong>2019</strong></h4>
 
-                      <p class="justify">Pada akhir tahun 2019 PT LINTAS MARITIM JAYA melakukan perubahan manajemen dan kepemilikan saham.</p>
-											<p class="justify">Perubahan ini menjadikan perusahaan ini lebih kuat dan mapan dalam pendanaan serta dukungan sumber daya manusia yang lebih hebat karena bergabungnya sumber daya manusia yang berpengalaman di bidangnya.</p>
-                      <p class="justify">Walaupun PT LINTAS MARITIM JAYA relatif baru di dunia Pelayaran, namun manajemen merasa yakin akan kemampuan perusahaan karena besarnya dukungan finansial dan sumber daya manusia yang handal.</p>
+                      <p class="justify">
+                        <!-- Pada akhir tahun 2019 PT LINTAS MARITIM JAYA melakukan perubahan manajemen dan kepemilikan saham. -->
+                        <?php echo $this->lang->line('profil_sejarah2_1'); ?>
+                      </p>
+											<p class="justify">
+                        <!-- Perubahan ini menjadikan perusahaan ini lebih kuat dan mapan dalam pendanaan serta dukungan sumber daya manusia yang lebih hebat karena bergabungnya sumber daya manusia yang berpengalaman di bidangnya. -->
+                        <?php echo $this->lang->line('profil_sejarah2_2'); ?>
+                      </p>
+                      <p class="justify">
+                        <!-- Walaupun PT LINTAS MARITIM JAYA relatif baru di dunia Pelayaran, namun manajemen merasa yakin akan kemampuan perusahaan karena besarnya dukungan finansial dan sumber daya manusia yang handal. -->
+                        <?php echo $this->lang->line('profil_sejarah2_3'); ?>
+                      </p>
 										</div>
 									</div>
 								</li>
@@ -170,8 +197,14 @@
 									<div class="featured-box">
 										<div class="border-top-3 box-content">
 											<h4 class="thumb-color-3"><strong>2020</strong></h4>
-											<p class="justify">Atas dasar gagasan dan saran dari Bapak Wibowo maka pada awal tahun 2020 PT LINTAS MARITIM JAYA melakukan investasi untuk pembelian 1 set Kapal Tugboat dan Tongkang yang akan dioperasikan untuk pengangkutan komoditas Nikel di daerah Sulawesi Tenggara dan sekitarnya untuk melayani kebutuhan angkutan antara tambang dan smelter yang ada di wilayah Sulawesi.</p>
-                      <p class="justify">Semakin bertumbuhnya kebutuhan armada pengangkutan nickel ore yang sangat besar di Sulawesi Tenggara dan ditunjang ukuran Tongkang yang memadai dan sumber daya manusia yang tangguh menjadikan setiap pengangkutan armada milik PT LINTAS MARITIM JAYA menjadi efektif dan efisien.</p>
+											<p class="justify">
+                        <!-- Atas dasar gagasan dan saran dari Bapak Wibowo maka pada awal tahun 2020 PT LINTAS MARITIM JAYA melakukan investasi untuk pembelian 1 set Kapal Tugboat dan Tongkang yang akan dioperasikan untuk pengangkutan komoditas Nikel di daerah Sulawesi Tenggara dan sekitarnya untuk melayani kebutuhan angkutan antara tambang dan smelter yang ada di wilayah Sulawesi. -->
+                        <?php echo $this->lang->line('profil_sejarah3_1'); ?>
+                      </p>
+                      <p class="justify">
+                        <!-- Semakin bertumbuhnya kebutuhan armada pengangkutan nickel ore yang sangat besar di Sulawesi Tenggara dan ditunjang ukuran Tongkang yang memadai dan sumber daya manusia yang tangguh menjadikan setiap pengangkutan armada milik PT LINTAS MARITIM JAYA menjadi efektif dan efisien. -->
+                        <?php echo $this->lang->line('profil_sejarah3_2'); ?>
+                      </p>
 										</div>
 									</div>
 								</li>
@@ -183,9 +216,18 @@
 									<div class="featured-box">
 										<div class="border-top-4 box-content">
 											<h4 class="thumb-color-4"><strong>2021</strong></h4>
-											<p class="justify">Dalam perkembangan usahanya PT LINTAS MARITIM JAYA tidak terlepas dari peran Bapak Wibowo yang mulai menjabat sebagai Komisaris Utama PT Lintas Maritim Perkasa sejak tahun 2021.</p>
-                      <p class="justify">Sebagaimana diketahui pertumbuhan akan permintaan atas Komoditas Nikel seiring dengan transformasi banyak negara di dunia dalam kampanye Revolusi Hijau, Komoditas Nickel Ore menjadi salah satu komoditas pokok untuk menunjang menuju transformasi energi tersebut, yang digunakan komponen penting untuk baterai listrik, yang kemudian akan digunakan salah satunya untuk mobil listrik yang ramah lingkungan.</p>
-                      <p class="justify">Bapak Wibowo yang jeli melihat peluang atas hal tersebut, dan melihat bahwa peta geografis wilayah Sulawesi, yang mana jarak antara tambang nikel menuju smelter lebih ekonomis menggunakan angkutan laut, sehingga PT. LINTAS MARITIM JAYA dalam bisnisnya lebih mengkonsentrasikan armadanya untuk melayani pengangkutan komoditas Nikel di wilayah perairan Sulawesi.</p>
+											<p class="justify">
+                        <!-- Dalam perkembangan usahanya PT LINTAS MARITIM JAYA tidak terlepas dari peran Bapak Wibowo yang mulai menjabat sebagai Komisaris Utama PT Lintas Maritim Perkasa sejak tahun 2021. -->
+                        <?php echo $this->lang->line('profil_sejarah4_1'); ?>
+                      </p>
+                      <p class="justify">
+                        <!-- Sebagaimana diketahui pertumbuhan akan permintaan atas Komoditas Nikel seiring dengan transformasi banyak negara di dunia dalam kampanye Revolusi Hijau, Komoditas Nickel Ore menjadi salah satu komoditas pokok untuk menunjang menuju transformasi energi tersebut, yang digunakan komponen penting untuk baterai listrik, yang kemudian akan digunakan salah satunya untuk mobil listrik yang ramah lingkungan. -->
+                        <?php echo $this->lang->line('profil_sejarah4_2'); ?>
+                      </p>
+                      <p class="justify">
+                        <!-- Bapak Wibowo yang jeli melihat peluang atas hal tersebut, dan melihat bahwa peta geografis wilayah Sulawesi, yang mana jarak antara tambang nikel menuju smelter lebih ekonomis menggunakan angkutan laut, sehingga PT. LINTAS MARITIM JAYA dalam bisnisnya lebih mengkonsentrasikan armadanya untuk melayani pengangkutan komoditas Nikel di wilayah perairan Sulawesi. -->
+                        <?php echo $this->lang->line('profil_sejarah4_3'); ?>
+                      </p>
 										</div>
 									</div>
 								</li>
@@ -194,20 +236,38 @@
 
             <div id="visi-misi" class="tab-pane">
               <p class="center m-none">
-                <b>VISI</b>
+                <b>
+                  <!-- VISI -->
+                  <?php echo $this->lang->line('profil_nav_visi_header'); ?>
+                </b>
               </p>
 
-              <p class="justify" style="margin:10px 30px 0px 30px;">Untuk mewujudkan cita-cita dan harapan ketika didirikan PT LINTAS MARITIM JAYA mempunyai visi, misi dan nilai-nilai perusahaan yang senantiasa kami pegang teguh.</p>
+              <p class="justify" style="margin:10px 30px 0px 30px;">
+                <!-- Untuk mewujudkan cita-cita dan harapan ketika didirikan PT LINTAS MARITIM JAYA mempunyai visi, misi dan nilai-nilai perusahaan yang senantiasa kami pegang teguh. -->
+                <?php echo $this->lang->line('profil_nav_visi'); ?>
+              </p>
 
               <hr>
 
               <p class="center m-none" style="padding:0px 0px 10px 0px;">
-                <b>MISI</b>
+                <b>
+                  <!-- MISI -->
+                  <?php echo $this->lang->line('profil_nav_misi_header'); ?>
+                </b>
               </p>
               <ul>
-                <li>Bekerja untuk menciptakan masa depan yang lebih baik setiap hari.</li>
-                <li>Menyediakan armada yang tangguh, terpelihara, tepat waktu, dan fokus pada efisiensi serta keselamatan.</li>
-                <li>Senatiasa fokus pada kebutuhan dan kepuasan pelanggan melalui pelayanan yang berkualitas dan terus ditingkatkan untuk mencapai kepuasan pelanggan.</li>
+                <li>
+                  <!-- Bekerja untuk menciptakan masa depan yang lebih baik setiap hari. -->
+                  <?php echo $this->lang->line('profil_nav_misi_list1'); ?>
+                </li>
+                <li>
+                  <!-- Menyediakan armada yang tangguh, terpelihara, tepat waktu, dan fokus pada efisiensi serta keselamatan. -->
+                  <?php echo $this->lang->line('profil_nav_misi_list2'); ?>
+                </li>
+                <li>
+                  <!-- Senatiasa fokus pada kebutuhan dan kepuasan pelanggan melalui pelayanan yang berkualitas dan terus ditingkatkan untuk mencapai kepuasan pelanggan. -->
+                  <?php echo $this->lang->line('profil_nav_misi_list3'); ?>
+                </li>
               </ul>
             </div>
 
@@ -219,13 +279,17 @@
 									<div class="bg-panel-1 panel-heading">
 										<h4 class="panel-title">
 											<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseOne">
-												INTEGRITAS
+												<!-- INTEGRITAS -->
+                        <?php echo $this->lang->line('profil_nav_nilai_header1'); ?>
 											</a>
 										</h4>
 									</div>
 									<div id="collapseOne" class="accordion-body collapse in">
 										<div class="panel-body">
-											<p>Bersikap jujur dan menunjukkan kepatuhan yang konsisten dan tanpa kompromi terhadap prinsip dan nilai moral dan etika yang kuat.</p>
+											<p>
+                        <!-- Bersikap jujur dan menunjukkan kepatuhan yang konsisten dan tanpa kompromi terhadap prinsip dan nilai moral dan etika yang kuat. -->
+                        <?php echo $this->lang->line('profil_nav_integritas'); ?>
+                      </p>
 										</div>
 									</div>
 								</div>
@@ -236,14 +300,21 @@
 									<div class="bg-panel-2 panel-heading">
 										<h4 class="panel-title">
 											<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-												RESPEK
+												<!-- RESPEK -->
+                        <?php echo $this->lang->line('profil_nav_nilai_header2'); ?>
 											</a>
 										</h4>
 									</div>
 									<div id="collapseTwo" class="accordion-body collapse">
 										<div class="panel-body">
-											<p class="m-none">Berperilaku dan bertindak positif kepada setiap orang dan kebijakan yang dibuat oleh perusahaan.</p>
-                      <p>Menghargai kualitas hasil kerja yang baik dan bernilai.</p>
+											<p class="m-none">
+                        <!-- Berperilaku dan bertindak positif kepada setiap orang dan kebijakan yang dibuat oleh perusahaan. -->
+                        <?php echo $this->lang->line('profil_nav_respek3_1'); ?>
+                      </p>
+                      <p>
+                        <!-- Menghargai kualitas hasil kerja yang baik dan bernilai. -->
+                        <?php echo $this->lang->line('profil_nav_respek3_2'); ?>
+                      </p>
 										</div>
 									</div>
 								</div>
@@ -254,13 +325,17 @@
 									<div class="bg-panel-3 panel-heading">
 										<h4 class="panel-title">
 											<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapseThree">
-												TANGGUNG JAWAB
+												<!-- TANGGUNG JAWAB -->
+                      <?php echo $this->lang->line('profil_nav_nilai_header3'); ?>
 											</a>
 										</h4>
 									</div>
 									<div id="collapseThree" class="accordion-body collapse">
 										<div class="panel-body">
-											<p>Senantiasa menjunjung tinggi dan berkomitmen untuk melaksanakan apa yang menjadi kewajiban.</p>
+											<p>
+                        <!-- Senantiasa menjunjung tinggi dan berkomitmen untuk melaksanakan apa yang menjadi kewajiban. -->
+                        <?php echo $this->lang->line('profil_nav_tanggungjawab'); ?>
+                      </p>
 										</div>
 									</div>
 								</div>
@@ -271,13 +346,17 @@
 									<div class="bg-panel-4 panel-heading">
 										<h4 class="panel-title">
 											<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion4" href="#collapseFour">
-												INNOVASI
+												<!-- INNOVASI -->
+                        <?php echo $this->lang->line('profil_nav_nilai_header4'); ?>
 											</a>
 										</h4>
 									</div>
 									<div id="collapseFour" class="accordion-body collapse">
 										<div class="panel-body">
-											<p>Tidak pernah berhenti untuk menciptakan dan memperbaiki pelayanan, proses bisnis, dan sistem yang baru.</p>
+											<p>
+                        <!-- Tidak pernah berhenti untuk menciptakan dan memperbaiki pelayanan, proses bisnis, dan sistem yang baru. -->
+                        <?php echo $this->lang->line('profil_nav_inovasi'); ?>
+                      </p>
 										</div>
 									</div>
 								</div>
