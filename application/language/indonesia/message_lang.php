@@ -16,6 +16,9 @@
   $lang["header_pelanggan"] = "Pelanggan Kami";
   $lang["header_kontak"] = "Kontak Kami";
 
+  // isi struktur organisasi
+  $lang["profil_nav0"] = "Struktur Organisasi";
+
   // isi Profil
   $lang["profil_nav1"] = "Sejarah Perusahaan";
 

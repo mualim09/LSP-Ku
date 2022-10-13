@@ -122,6 +122,12 @@
 
           <ul class="nav nav-tabs nav-justified tabs-simple">
             <li class="active">
+              <a href="#struktur-organisasi" data-toggle="tab" class="text-color-dark-tb semi-bold text-center">
+                <!-- Struktur Organisasi -->
+                <?php echo $this->lang->line('profil_nav0'); ?>
+              </a>
+            </li>
+            <li>
               <a href="#sejarah-perusahaan" data-toggle="tab" class="text-color-dark-tb semi-bold text-center">
                 <!-- Sejarah Perusashaan -->
                 <?php echo $this->lang->line('profil_nav1'); ?>
@@ -143,7 +149,11 @@
 
           <div class="tab-content">
 
-            <div id="sejarah-perusahaan" class="tab-pane active">
+            <div id="struktur-organisasi" class="tab-pane active">
+              <img src="<?=base_url('assets/img/struktur.png')?>" class="img-responsive mb-lg mt-xlg" alt="">
+            </div>
+
+            <div id="sejarah-perusahaan" class="tab-pane">
               <ul class="history">
 								<li class="appear-animation" data-appear-animation="fadeInUp">
 									<div class="thumb">

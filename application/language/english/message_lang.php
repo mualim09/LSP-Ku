@@ -15,6 +15,8 @@
   $lang["header_armada"] = "Operations and Fleet";
   $lang["header_pelanggan"] = "Our Customers";
 
+  // isi struktur organisasi
+  $lang["profil_nav0"] = "Organizational structure";
   // isi Profil
   $lang["profil_nav1"] = "Company history";
 
