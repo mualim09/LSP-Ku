@@ -119,7 +119,7 @@
                       </a>
                     </li>
                   </ul>
-                </div>\
+                </div>
 
                 <div class="col-md-8 col-sm-8">
                   <h2 class="font-weight-semibold text-color-dark">Octavianus Sembiring</h2>
